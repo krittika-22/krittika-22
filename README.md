@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krittika Ghatak</h1>
-<h3 align="center">An Electronics and Communication student at Techno Main Salt Lake.</h3>
+<h3 align="center">An Electronics and Communication engineering student at Techno Main Salt Lake.</h3>
 
 - 🌱 I’m currently learning **C++,DSA,Python,SQL**
 
