@@ -14,4 +14,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krittika-22&show_icons=true&locale=en&layout=compact" alt="krittika-22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krittika-22&" alt="krittika-22" /></p>
